@@ -1,0 +1,91 @@
+{
+    "header": {
+        "home": "Home",
+        "experience": "Experience",
+        "projects": "Projects",
+        "aboutMe": "About Me",
+        "skills": "Technologies"
+    },
+    "footer": {
+        "text": "Almost all rights reserved."
+    },
+    "hero": {
+        "title": "Full Stack Developer",
+        "greeting": "Hello, I'm Héctor Monroy",
+        "experience1": "+1 year of experience. Graduated in",
+        "experience2": "Web Application Development",
+        "experience3": "and currently studying",
+        "experience4": "Computer Engineering Management and Information Systems",
+        "contact": "Contact Me"
+    },
+    "experience": {
+        "current": "Currently"
+    },
+    "workExperience": {
+        "title": "Work Experience",
+        "experiences": [
+            {
+                "title": "GSSecurity",
+                "date": "November 2023",
+                "description": "Development and maintenance of the application used by GSSecurity workers to perform all work tasks. The application, a CRM, facilitates customer relationship management and the company's internal operations. It uses technologies such as PHP, Doctrine, Symfony, JQuery, AJAX, among others.",
+                "current": true
+            }
+        ]
+    },
+    "projects": {
+        "title": "My Projects",
+        "code": "Code",
+        "preview": "Preview",
+        "leavingTheAfterParty": {
+            "description": "Leaving The After Party is a Unity and C# video game created as the final project for a web application development course. Playable online via WebGL, it showcases programming and game design skills. The game features a character navigating obstacles and enemies to escape a party, interacting with others along the way, with the ultimate goal of reaching home safely.",
+            "code": "Code",
+            "preview": "Preview"
+        },
+        "animeFavs": {
+            "description": "Website to list seasonal, popular, and more animes. With the possibility of adding to favorites and viewing details of each anime and its characters.",
+            "code": "Code",
+            "preview": "Preview"
+        },
+        "chatDaw": {
+            "description": "A real-time chat application was developed to enable secure communication between students. The project includes features such as message sending, user list viewing, and real-time updates. The application was built using Java for the business logic, MySQL for database management, and follows an MVC (Model-View-Controller) architecture for proper layer separation.",
+            "code": "Code",
+            "preview": null
+        },
+        "forestTravel": {
+            "description": "Template for a travel agency, with sections for home, gallery, plans, and contact. Responsive design, animations with Sass and JavaScript, and fully compliant with accessibility guidelines, being Triple-A level.",
+            "code": "Code",
+            "preview": "Preview"
+        },
+        "photoFilterApp": {
+            "description": "Web application to apply different predefined filters to images, with the possibility of uploading an image from the device and downloading the image with the applied filter.",
+            "code": "Code",
+            "preview": "Preview"
+        }
+    },
+    "frontend": {
+        "html": "HTML",
+        "css": "CSS",
+        "react": "React",
+        "sass": "Sass",
+        "bootstrap": "Bootstrap",
+        "tailwind": "Tailwind"
+    },
+    "backend": {
+        "nodejs": "Node Js",
+        "mysql": "MySQL",
+        "mongodb": "MongoDB"
+    },
+    "skills": {
+        "title": "Technologies",
+        "frontend": "Front End",
+        "backend": "Back End",
+        "languages": "Languages",
+        "others": "Others"
+    },
+    "aboutMe": {
+        "title": "About Me",
+        "paragraph1": "Hello! My name is Héctor. My passion for programming began when I was a teenager and since then I have been learning and improving my skills. I graduated in Web Application Development and I am currently studying Computer Engineering Management and Information Systems at the Tecnocampus University of Mataró, affiliated with Pompeu Fabra University (UPF).",
+        "paragraph2": "I currently work as a web developer at a private security company, where my team and I develop and maintain the application, similar to a CRM, that the company's employees use to perform all work tasks. The application facilitates customer relationship management and the company's internal operations.",
+        "paragraph3": "In my free time, I like to watch series, movies, and play video games, like any young person today. I also like to learn new things and experiment with technologies I don't know."
+    }
+}

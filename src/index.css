@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Onest';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./assets/fonts/Onest/static/Onest-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Onest';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./assets/fonts/Onest/static/Onest-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Onest';
+    font-style: normal;
+    font-weight: 900;
+    src: url('./assets/fonts/Onest/static/Onest-Black.ttf') format('truetype');
+}
+
+html, body {
+    @apply w-full h-full bg-gray-50 text-black;
+    font-family: 'Onest', sans-serif;
+}
+
+.dark {
+    @apply w-full h-full bg-gray-950 text-white;
+}

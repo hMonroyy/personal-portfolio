@@ -1,0 +1,91 @@
+{
+    "header": {
+        "home": "Inicio",
+        "experience": "Experiencia",
+        "projects": "Proyectos",
+        "aboutMe": "Sobre mí",
+        "skills": "Tecnologías"
+    },
+    "footer": { 
+        "text": "Casi todos los derechos reservados."
+    },
+    "hero": {
+        "title": "Desarrollador Full Stack",
+        "greeting": "Hola, soy Héctor Monroy",
+        "experience1": "+1 año de experiencia. Graduado en ",
+        "experience2": "Desarrollo de Aplicaciones Web",
+        "experience3": "y estudiante de",
+        "experience4": "Ingeniería Informática de Gestión y Sistemas de Información",
+        "contact": "Contáctame"
+    },
+    "experience": {
+        "current": "Actualmente"
+    },
+    "workExperience": {
+        "title": "Experiencia Laboral",
+        "experiences": [
+            {
+                "title": "GSSecurity",
+                "date": "Noviembre de 2023",
+                "description": "Desarrollo y mantenimiento de la aplicación utilizada por los trabajadores de GSSecurity para realizar todas las tareas laborales. La aplicación, un CRM, facilita la gestión de relaciones con los clientes y las operaciones internas de la empresa. Utiliza tecnologías como PHP, Doctrine, Symfony, JQuery, AJAX, entre otras.",
+                "current": true
+            }
+        ]
+    },
+    "projects": {
+        "title": "Mis Proyectos",
+        "code": "Código",
+        "preview": "Vista previa",
+        "leavingTheAfterParty": {
+            "description": "Leaving The After Party es un videojuego desarrollado en Unity y C# como proyecto final de un curso de desarrollo de aplicaciones web. Disponible online a través de WebGL, combina habilidades de programación y diseño de juegos. El jugador controla a un personaje que debe escapar de una fiesta, evitando obstáculos y enemigos, e interactuando con otros personajes para llegar a casa sano y salvo.",
+            "code": "Código",
+            "preview": "Vista previa"
+        },
+        "animeFavs": {
+            "description": "Sitio web para listar animes de temporada, populares y más. Con la posibilidad de agregar a favoritos y ver detalles de cada anime y sus personajes.",
+            "code": "Código",
+            "preview": "Vista previa"
+        },
+        "chatDaw": {
+            "description": "Se desarrolló una aplicación de chat en tiempo real que permite la comunicación segura entre estudiantes. El proyecto incluye funcionalidades como el envío de mensajes, la visualización de listas de usuarios y actualizaciones en tiempo real. La aplicación fue construida utilizando Java para el desarrollo de la lógica de negocio, MySQL para la gestión de la base de datos, y sigue una arquitectura MVC (Modelo-Vista-Controlador) para una correcta separación de capas.",
+            "code": "Código",
+            "preview": null
+        },
+        "forestTravel": {
+            "description": "Plantilla para una agencia de viajes, con secciones para inicio, galería, planes y contacto. Diseño responsivo, animaciones con Sass y JavaScript, y totalmente conforme con las pautas de accesibilidad, siendo de nivel Triple-A.",
+            "code": "Código",
+            "preview": "Vista previa"
+        },
+        "photoFilterApp": {
+            "description": "Aplicación web para aplicar diferentes filtros predefinidos a imágenes, con la posibilidad de subir una imagen desde el dispositivo y descargar la imagen con el filtro aplicado.",
+            "code": "Código",
+            "preview": "Vista previa"
+        }
+    },
+    "frontend": {
+        "html": "HTML",
+        "css": "CSS",
+        "react": "React",
+        "sass": "Sass",
+        "bootstrap": "Bootstrap",
+        "tailwind": "Tailwind"
+    },
+    "backend": {
+        "nodejs": "Node Js",
+        "mysql": "MySQL",
+        "mongodb": "MongoDB"
+    },
+    "skills": {
+        "title": "Tecnologías",
+        "frontend": "Front End",
+        "backend": "Back End",
+        "languages": "Lenguajes",
+        "others": "Otros"
+    },
+    "aboutMe": {
+        "title": "Sobre mí",
+        "paragraph1": "¡Hola! Me llamo Héctor. Mi pasión por la programación comenzó cuando era adolescente y desde entonces he estado aprendiendo y mejorando mis habilidades. Soy graduado en CFGS de Desarrollo de Aplicaciones Web y, actualmente, estoy estudiando Ingeniería Informática de Gestión y Sistemas de la información en la Universidad Tecnocampus de Mataró, centro adscrito a la Universidad Pompeu Fabra (UPF).",
+        "paragraph2": "Actualmente trabajo como desarrollador web en una empresa de seguridad privada, donde mi equipo y yo desarrollamos y mantenemos la aplicación, similar a un CRM, que utilizan los trabajadores de la empresa para realizar todas las tareas laborales. La aplicación facilita la gestión de relaciones con los clientes y las operaciones internas de la empresa.",
+        "paragraph3": "En mi tiempo libre me gusta ver series, películas y jugar videojuegos, como cualquier joven de hoy en día. También me gusta aprender cosas nuevas y experimentar con tecnologías que no conozco."
+    }
+}
